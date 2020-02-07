@@ -1,10 +1,7 @@
-def name=(name)
-    @name = name
-  end
- 
-  def name
-    @name
-  end
+class cat
+  attr_accessor :name
 end
  
+ def meow
+ end
  
